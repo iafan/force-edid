@@ -1,0 +1,6 @@
+# Compiled binary — build it with clang (see README)
+/force-edid
+
+# Personal, setup-specific files — not part of the public tool
+fix-*.sh
+*.bin
