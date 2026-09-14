@@ -4,3 +4,8 @@
 # Personal, setup-specific files — not part of the public tool
 fix-*.sh
 *.bin
+
+/local/
+
+# macOS
+.DS_Store
